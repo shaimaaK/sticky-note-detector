@@ -1,9 +1,5 @@
 adversarial_text/
 attention_ocr/
-frozen_model2/checkoint/
-frozen_model2/saved_model/assets/
-frozen_model2/saved_model/variables/
-frozen_model2/pipeline.config
 audioset/
 autoaugment/
 build/
